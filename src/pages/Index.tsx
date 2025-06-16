@@ -9,7 +9,7 @@ import Milestones from "@/components/Milestones";
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-white text-gray-900">
+    <div className="min-h-screen bg-white text-gray-800">
       <div className="max-w-4xl mx-auto px-6 py-8">
         <Header />
         <About />
